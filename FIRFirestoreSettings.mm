@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-// apps/t98training/ios/Pods/FirebaseFirestore/Firestore/Source/API/FIRFirestoreSettings.mm
+// apps/app/ios/Pods/FirebaseFirestore/Firestore/Source/API/FIRFirestoreSettings.mm
 
 #import "FIRFirestoreSettings.h"
 
